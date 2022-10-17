@@ -1,0 +1,16 @@
+.imgBlock {
+    width: 10rem;
+    height: 10rem;
+    object-fit: contain;
+}
+
+.textEllipsis {
+    width: 20rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Fuente textEllipsis:
+    https://developer.mozilla.org/es/docs/Web/CSS/text-overflow
+*/

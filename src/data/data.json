@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "title": "Escritorio Industrial Hierro Nordico 120x60",
+        "price": 9890,
+        "color": "Negro",
+        "category": "muebles",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_683875-MLA32084223426_092019-O.webp",
+        "stock": 4
+        
+    },
+    {
+        "id": 1,
+        "title": "Escritorio Industrial Hierro Laboral 136x75",
+        "price": 13300,
+        "color": "Negro",
+        "category": "muebles",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_938374-MLA44386410413_122020-O.webp",
+        "stock": 2
+        
+    },
+    {
+        "id": 2,
+        "title": "Silla Escritorio Oficina",
+        "price": 20990,
+        "color": "Negro",
+        "category": "sillas",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_616799-MLA42680922493_072020-O.webp",
+        "stock": 3
+        
+    },
+    {
+        "id": 3,
+        "title": "Silla Ejecutivo Gerencial",
+        "price": 22500,
+        "color": "Blanco",
+        "category": "sillas",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_722290-MLA41881024930_052020-O.webp",
+        "stock": 2
+        
+    },
+    {
+        "id": 4,
+        "title": "Lampara Escritorio Velador 4w",
+        "price": 2110,
+        "color": "Blanco",
+        "category": "electronica",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_768486-MLA43925199308_102020-O.webp",
+        "stock": 12
+        
+    },
+    {
+        "id": 5,
+        "title": "Lampara Inalambrica Velador Escritorio",
+        "price": 1200,
+        "color": "Blanco",
+        "category": "electronica",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_604976-MLA32689978485_102019-O.webp",
+        "stock": 10
+        
+    },
+    {
+        "id": 6,
+        "title": "Teclado Bluetooth Logitech k480",
+        "price": 4449,
+        "color": "Negro",
+        "category": "perisfericos_pc",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_847151-MLA32722390649_102019-O.webp",
+        "stock": 8
+        
+    },
+    {
+        "id": 7,
+        "title": "Mouse Inalambrico Recargable Logitech MX 3",
+        "price": 7099,
+        "color": "Negro",
+        "category": "perisfericos_pc",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_823736-MLA45293609557_032021-O.webp",
+        "stock": 6
+        
+    }
+]

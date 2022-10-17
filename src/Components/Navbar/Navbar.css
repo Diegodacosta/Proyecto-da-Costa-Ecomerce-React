@@ -1,0 +1,79 @@
+/* NavbarCss container */
+.navbarCss {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial;
+}
+
+
+.navbarCss a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.dropsdown {
+  float: left;
+  overflow: hidden;
+}
+
+
+.dropsdown .dropsbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0; 
+}
+
+
+.navbarCss a:hover, .dropsdown:hover .dropsbtn {
+  background-color: rgb(45, 169, 201);
+  color: white;
+}
+
+
+.dropsdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+
+.dropsdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+
+.dropsdown-content a:hover {
+  background-color: #ddd;
+}
+
+
+.dropsdown:hover .dropsdown-content {
+  display: block;
+}
+
+.noDecoration {
+  text-decoration: none;
+  
+}
+
+.noDecoration:hover {
+  text-decoration:#ddd !important;
+}
